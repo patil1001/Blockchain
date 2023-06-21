@@ -1,4 +1,4 @@
-a simple blockchain demo for learning 
+a simple blockchain made with Rust
 
 
 # blockchain-rust -
